@@ -1,0 +1,13 @@
+4f85442acf6089bbe2f5bc4e4c76f5c7 *DESCRIPTION
+9751b872709ef1e30fe2e7ba6ccbc66d *NAMESPACE
+a717317f00a25c58827c63d65fec485b *R/SeqMADE.r
+b45d9215bc6d4ef163936294223165cb *data/exprs.txt.gz
+b84601544afb0f0c4180c8524c33567e *data/networkModule.txt.gz
+7a267f804d4e9a3b91786e1037beb8a8 *man/Factor.Rd
+28c463c77effff7445d52e06d631cb3f *man/SeqMADE-package.Rd
+ab22ab5af268d95f3b699f2b0b324ebe *man/exprs.Rd
+c18a2e11a2bcae0c11602463b70c3fc0 *man/moduleMatrix.Rd
+9c9da7887b8c0e9a1bc90a37fe8f45a8 *man/nbGLM.Rd
+3d911cbbc5d4cd7b41843d4a52cc2e9e *man/nbGLMdir.Rd
+b4898cae46acbd6ffe0e4e829798069e *man/nbGLMdirperm.Rd
+788de828d722ef17b78b953d0b01d1fc *man/networkModule.Rd
